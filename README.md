@@ -1,2 +1,2 @@
-# ICML-Figure
+# Figure-anonymous
 Totally anonymous.
